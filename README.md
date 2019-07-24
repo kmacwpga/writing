@@ -1,3 +1,3 @@
-# friendly-computing-machine
+# Friendly Computing Machine
 
 ## By Keegan Macintosh
