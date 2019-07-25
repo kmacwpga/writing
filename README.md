@@ -14,3 +14,6 @@ This repository is a site for collaborative poetics, or possibly an exercise in 
   
 [just type](https://github.com/keegs440/writing/blob/master/poems/just-type.md)
   
+#### Scenes
+
+[Sir Richard McBrecht](https://github.com/keegs440/writing/blob/master/scenes/sir-richard-mcbrecht.md)
