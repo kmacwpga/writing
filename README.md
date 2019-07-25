@@ -14,7 +14,7 @@ This repository is a site for collaborative poetics, or possibly an exercise in 
   
 [just type](https://github.com/keegs440/writing/blob/master/poems/just-type.md)
 
-[stonewall](https://github.com/keegs440/writing/blob/master/poems/stonewall.md)
+[Stonewall](https://github.com/keegs440/writing/blob/master/poems/stonewall.md)
 
 #### Scenes
 
