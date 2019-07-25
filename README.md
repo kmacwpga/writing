@@ -6,11 +6,11 @@ This repository is a site for collaborative poetics, or possibly an exercise in 
   
 #### Poems  
   
-[storytelling event](https://github.com/keegs440/friendly-computing-machine/blob/master/storytelling-event.md)
+[storytelling event](https://github.com/keegs440/writing/blob/master/poems/storytelling-event.md)
   
-[it's just drag](https://github.com/keegs440/friendly-computing-machine/blob/master/it's-just-drag.md)  
+[it's just drag](https://github.com/keegs440/writing/blob/master/poems/it's-just-drag.md)  
   
-[nothing close by](https://github.com/keegs440/friendly-computing-machine/blob/master/nothing-close-by.md)  
+[nothing close by](https://github.com/keegs440/writing/blob/master/poems/nothing-close-by.md)  
   
-[just type](https://github.com/keegs440/friendly-computing-machine/blob/master/just-type.md)
+[just type](https://github.com/keegs440/writing/blob/master/poems/just-type.md)
   
