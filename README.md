@@ -1,4 +1,4 @@
-# Friendly Computing Machine
+# Writing
 
 ### By Keegan Macintosh
 
@@ -13,7 +13,9 @@ This repository is a site for collaborative poetics, or possibly an exercise in 
 [nothing close by](https://github.com/keegs440/writing/blob/master/poems/nothing-close-by.md)  
   
 [just type](https://github.com/keegs440/writing/blob/master/poems/just-type.md)
-  
+
+[stonewall](https://github.com/keegs440/writing/blob/master/poems/stonewall.md)
+
 #### Scenes
 
 [Sir Richard McBrecht](https://github.com/keegs440/writing/blob/master/scenes/sir-richard-mcbrecht.md)
