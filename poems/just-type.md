@@ -11,8 +11,8 @@ Natural, mad, beautiful
 The puzzled prosperity of hate  
 People enjoying the shallow present time  
 
-Retreat is impossible  
-Retreat is impossible  
+Retreat is impossible.  
+Retreat is impossible.  
 People cannot combat the tendency of justice to substitute violence  
 
 Remember the support of judicial institutions tomorrow  
