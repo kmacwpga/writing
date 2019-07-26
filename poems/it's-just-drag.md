@@ -31,7 +31,8 @@ self-therapy drag
 group-therapy drag  
 ooky spooky goth drag  
 busted/oatmeal eyebrow drag  
-paint for the back row drag  
+paint for the back row drag 
+Marlene Dietrich in a pant suit drag
 cosplay drag  
 living doll drag  
 Pride-started-as-a-riot drag  
